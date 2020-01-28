@@ -1,0 +1,23 @@
+.detailedMessage {
+    .btn-delete {
+        width: 16em;
+        height: 6vh;
+        background-color: #d61313;
+        float: right;
+        color: white;
+        font-weight: 600;
+        transition: 2s;
+        &:hover {
+            background-color: #7e1212;
+            
+        }
+    }
+    
+}
+
+@media screen and (max-width: 400px) {
+    .resumeMessage{
+        max-height: 40vh;
+        overflow: scroll;
+    }
+}

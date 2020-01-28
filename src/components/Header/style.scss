@@ -1,0 +1,40 @@
+header {
+    height: 9vh;
+    .header-title {
+        margin: 1em
+    }
+    .link {
+        margin-top: 0.5em;
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+        &:hover {
+            border-bottom: 1px solid white ; 
+        }
+    }
+}
+
+@media screen and (max-width: 992px) {
+    
+}
+  
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 400px) {
+header {
+    margin: 0;
+    .header-title {
+        font-size: 1.5rem;
+    }
+    .link {
+        margin-top: 0.5em;
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 0.8rem;
+        }
+    }
+}
+
+}

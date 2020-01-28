@@ -1,0 +1,55 @@
+.bolder-text {
+    color: #797878;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.form{
+    .input-group {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .input {
+            font-weight: bolder;
+            margin-bottom: 1em;
+        }
+        .subject-select {
+            height: 50px;
+            padding-left: 0.5em;
+            margin-bottom: 1em;
+            color: #797878;
+            font-size: 1rem;
+            font-weight: bolder;
+        }
+    }
+    .text-area {
+        display: flex;
+        flex-direction: column;
+        textarea {
+            padding: 1em;
+            width: 100%;
+            resize: none;
+            color: #797878;
+            font-size: 1.5rem;
+            font-weight: bolder;
+        }
+        p {
+            margin-top: 1em;
+            align-self: flex-end;
+            font-size: 0.7rem;
+            font-weight: bolder;
+        }
+    }
+    .btn-submit {
+        width: 150px;
+        background-color: #0aa722;
+        color: white;
+        float: right;
+        margin-top: 3em;
+        padding: 1em;
+        
+        &:hover {
+            background-color: #066b15;
+        }
+    }
+}
