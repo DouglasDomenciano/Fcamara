@@ -1,9 +1,9 @@
 # Fcamara
 
-<img src="./mocks/dashWeb.png"  title="DashboardWeb" alt="DashboardWeb">
-<img src="./mocks/dashMobile.png" title="DashboardMobile" alt="DashboardMobile">
-<img src="./mocks/formWeb.png" title="formWeb" alt="formWeb">
-<img src="./mocks/formMobile.png" title="formMobile" alt="formMobile">
+<img src="https://github.com/DouglasDomenciano/Fcamara/blob/master/mocks/dashWeb.png"  title="DashboardWeb" alt="DashboardWeb">
+<img src="https://github.com/DouglasDomenciano/Fcamara/blob/master/mocks/dashMobile.png" title="DashboardMobile" alt="DashboardMobile">
+<img src="https://github.com/DouglasDomenciano/Fcamara/blob/master/mocks/formWeb.png" title="formWeb" alt="formWeb">
+<img src="https://github.com/DouglasDomenciano/Fcamara/blob/master/mocks/formMobile.png" title="formMobile" alt="formMobile">
 
 ## Available Scripts
 
